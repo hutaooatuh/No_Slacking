@@ -10,3 +10,7 @@
 ## 下载
 
 下载上方的 `ns-1.0.0.exe` 文件。
+
+## 开机启动
+
+请查看[洛谷上的教程](https://www.luogu.com/paste/cy4atpu1)。
